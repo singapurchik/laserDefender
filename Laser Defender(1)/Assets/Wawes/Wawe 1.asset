@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fab1d3d2e9db0214b8595654636f1713, type: 3}
+  m_Name: Wawe 1
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 6415484416631467595, guid: 1a9472018da84bb46b04dd944941ab3c, type: 3}
+  pathPrefab: {fileID: 3941244961679262515, guid: 5b5edb6e5b0c06c4d9bef4e76bc29a64, type: 3}
+  timeBetweenSpawns: 0.5
+  spawnRandomFactor: 0.3
+  numberOfEnemies: 12
+  moveSpeed: 7
